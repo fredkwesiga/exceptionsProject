@@ -1,0 +1,14 @@
+/Users/fred/Desktop/Learning CSHARP/retail-support applicationsExpceptions/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/Users/fred/Desktop/Learning CSHARP/retail-support applicationsExpceptions/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/fred/Desktop/Learning CSHARP/retail-support applicationsExpceptions/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/fred/Desktop/Learning CSHARP/retail-support applicationsExpceptions/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/Users/fred/Desktop/Learning CSHARP/retail-support applicationsExpceptions/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/fred/Desktop/Learning CSHARP/retail-support applicationsExpceptions/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fred/Desktop/Learning CSHARP/retail-support applicationsExpceptions/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/fred/Desktop/Learning CSHARP/retail-support applicationsExpceptions/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/fred/Desktop/Learning CSHARP/retail-support applicationsExpceptions/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/fred/Desktop/Learning CSHARP/retail-support applicationsExpceptions/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/Users/fred/Desktop/Learning CSHARP/retail-support applicationsExpceptions/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/fred/Desktop/Learning CSHARP/retail-support applicationsExpceptions/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/fred/Desktop/Learning CSHARP/retail-support applicationsExpceptions/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/fred/Desktop/Learning CSHARP/retail-support applicationsExpceptions/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
